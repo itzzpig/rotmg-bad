@@ -1,4 +1,4 @@
-# Project B
+# Project C memed
 This server is based of the *Seraphs Dominion* Source.
 
 Some Features:
